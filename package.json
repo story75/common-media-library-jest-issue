@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@svta/common-media-library": "^0.7.1"
+    "@svta/common-media-library": "^0.7.2"
   },
   "devDependencies": {
     "@swc/core": "1.7.14",
